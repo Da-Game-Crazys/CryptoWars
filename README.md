@@ -1,5 +1,7 @@
 # CryptoWars
 Some Random Crypto Game
+
+Crypto Features To Be Added Later On
 # Contact Me
 Send Me Ideas Please
 
